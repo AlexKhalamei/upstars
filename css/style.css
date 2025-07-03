@@ -824,6 +824,8 @@ strong {
   }
   .main .section img {
     max-width: 60%;
+    flex: auto;
+    height: auto;
   }
   .main h2.left {
     text-align: center;
