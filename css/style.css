@@ -640,6 +640,10 @@ strong {
   gap: 2rem;
   margin-top: 2rem;
 }
+.main .section-4 .adv img {
+  max-width: 100%;
+  flex: none;
+}
 .main .section-4 .adv .pros {
   background: #eeffec;
   padding: 24px;
@@ -901,6 +905,7 @@ strong {
   display: flex;
   justify-content: center;
   margin: 0 auto;
+  max-width: 60%;
 }
 .custom-slider .slide__content .title {
   font-size: 20px;

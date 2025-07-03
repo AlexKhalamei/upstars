@@ -558,6 +558,11 @@ strong {
       gap: 2rem;
       margin-top: 2rem;
 
+      img {
+        max-width: 100%;
+        flex: none;
+      }
+
       .pros {
         background: #eeffec;
         padding: 24px;
@@ -850,6 +855,7 @@ strong {
       display: flex;
       justify-content: center;
       margin: 0 auto;
+      max-width: 60%;
     }
   }
   .slide__content {
